@@ -16,7 +16,6 @@ class Solution:
         return n == 1
 
 
-
 s = Solution()
 print(s.isHappy(77))
 
